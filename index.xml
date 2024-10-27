@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simon Says eng</title>
-    <link>http://example.org/</link>
+    <link>https://github.com/Simon-Says-eng/blog/</link>
     <description>Recent content on Simon Says eng</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Oct 2024 14:48:43 +0000</lastBuildDate>
-    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/Simon-Says-eng/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://github.com/Simon-Says-eng/blog/posts/my-first-post/</link>
       <pubDate>Sun, 27 Oct 2024 14:48:43 +0000</pubDate>
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://github.com/Simon-Says-eng/blog/posts/my-first-post/</guid>
       <description></description>
     </item>
     <item>
       <title>Impressum</title>
-      <link>http://example.org/impressum/</link>
+      <link>https://github.com/Simon-Says-eng/blog/impressum/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/impressum/</guid>
+      <guid>https://github.com/Simon-Says-eng/blog/impressum/</guid>
       <description>&lt;h1 id=&#34;impressum&#34;&gt;Impressum&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Angaben gemäß § 5 TMG&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Max Mustermann&lt;br&gt;&#xA;Musterstraße 1&lt;br&gt;&#xA;12345 Musterstadt&lt;/p&gt;&#xA;&lt;p&gt;Telefon: 01234-567890&lt;br&gt;&#xA;E-Mail: &lt;a href=&#34;mailto:max@example.com&#34;&gt;max@example.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Haftung für Inhalte&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.&lt;/p&gt;</description>
     </item>
   </channel>
