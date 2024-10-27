@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Simon Says eng</title>
-    <link>https://simon-says-eng.github.io/Simon-Says-eng/blog/categories/</link>
+    <link>https://simon-says-eng.github.io/blog/categories/</link>
     <description>Recent content in Categories on Simon Says eng</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://simon-says-eng.github.io/Simon-Says-eng/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://simon-says-eng.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
